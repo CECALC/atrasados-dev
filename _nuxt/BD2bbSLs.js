@@ -1,0 +1,1 @@
+import{ks as e}from"./Bb-W1o_r.js";var t=`fc-resumo-importacao-exchange`;function n(){let n=e(t,()=>void 0);function r(e){n.value=e}function i(){let e=n.value;return n.value=void 0,e}return{definir:r,consumir:i}}export{n as t};
